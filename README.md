@@ -1,7 +1,7 @@
 # Optimization_Model
 
 ## Company Name
-CODTECH IT SOLUTIONS
+CODTECH IT SOLUTIONS PRIVATE LIMITED
 
 ---
 
